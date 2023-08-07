@@ -17,6 +17,7 @@ export default function SearchResultPage() {
     you code here...
   );
   */
+  // const filteredMovies = movieDB.filter((movie) =>
 
   return (
     <div>
